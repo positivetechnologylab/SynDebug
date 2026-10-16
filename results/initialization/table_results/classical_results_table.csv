@@ -1,0 +1,18 @@
+name,dist,state_string,qc_no_syndebug_depth,qc_with_syndebug_depth,percent_added
+Steane,,0,14,14,0.0
+Steane,,10,15,15,0.0
+Shor,,1,14,14,0.0
+Shor,,100,14,14,0.0
+Tetrahedral,,0,19,19,0.0
+Golay,,m,36,37,2.7027027027027026
+Surface,3,0,12,12,0.0
+Surface,3,p0,12,14,14.285714285714285
+Surface,5,0,13,13,0.0
+Surface,5,pm,16,16,0.0
+Hexagonal Color,3,0,14,14,0.0
+Hexagonal Color,5,1,19,19,0.0
+Hexagonal Color,7,0,20,20,0.0
+Hexagonal Color,3,0p1,14,15,6.666666666666667
+Square Octagon Color,3,0,13,13,0.0
+Square Octagon Color,5,p,18,18,0.0
+Square Octagon Color,3,pm,14,14,0.0

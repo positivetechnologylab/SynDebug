@@ -1,0 +1,1009 @@
+name,dist,n_patches,state_string,qc_no_syndebug_depth,qc_with_syndebug_depth,percent_added,assertion_passed
+Steane,3,1,0,14,14,0.0,True
+Steane,3,1,1,15,15,0.0,True
+Steane,3,1,p,14,14,0.0,True
+Steane,3,1,m,15,15,0.0,True
+Steane,3,2,00,14,14,0.0,True
+Steane,3,2,01,15,15,0.0,True
+Steane,3,2,0p,14,14,0.0,True
+Steane,3,2,0m,15,15,0.0,True
+Steane,3,2,10,15,15,0.0,True
+Steane,3,2,11,15,15,0.0,True
+Steane,3,2,1p,15,15,0.0,True
+Steane,3,2,1m,15,15,0.0,True
+Steane,3,2,p0,14,14,0.0,True
+Steane,3,2,p1,15,15,0.0,True
+Steane,3,2,pp,14,14,0.0,True
+Steane,3,2,pm,15,15,0.0,True
+Steane,3,2,m0,15,15,0.0,True
+Steane,3,2,m1,15,15,0.0,True
+Steane,3,2,mp,15,15,0.0,True
+Steane,3,2,mm,15,15,0.0,True
+Steane,3,3,000,14,14,0.0,True
+Steane,3,3,001,15,15,0.0,True
+Steane,3,3,00p,14,14,0.0,True
+Steane,3,3,00m,15,15,0.0,True
+Steane,3,3,010,15,15,0.0,True
+Steane,3,3,011,15,15,0.0,True
+Steane,3,3,01p,15,15,0.0,True
+Steane,3,3,01m,15,15,0.0,True
+Steane,3,3,0p0,14,14,0.0,True
+Steane,3,3,0p1,15,15,0.0,True
+Steane,3,3,0pp,14,14,0.0,True
+Steane,3,3,0pm,15,15,0.0,True
+Steane,3,3,0m0,15,15,0.0,True
+Steane,3,3,0m1,15,15,0.0,True
+Steane,3,3,0mp,15,15,0.0,True
+Steane,3,3,0mm,15,15,0.0,True
+Steane,3,3,100,15,15,0.0,True
+Steane,3,3,101,15,15,0.0,True
+Steane,3,3,10p,15,15,0.0,True
+Steane,3,3,10m,15,15,0.0,True
+Steane,3,3,110,15,15,0.0,True
+Steane,3,3,111,15,15,0.0,True
+Steane,3,3,11p,15,15,0.0,True
+Steane,3,3,11m,15,15,0.0,True
+Steane,3,3,1p0,15,15,0.0,True
+Steane,3,3,1p1,15,15,0.0,True
+Steane,3,3,1pp,15,15,0.0,True
+Steane,3,3,1pm,15,15,0.0,True
+Steane,3,3,1m0,15,15,0.0,True
+Steane,3,3,1m1,15,15,0.0,True
+Steane,3,3,1mp,15,15,0.0,True
+Steane,3,3,1mm,15,15,0.0,True
+Steane,3,3,p00,14,14,0.0,True
+Steane,3,3,p01,15,15,0.0,True
+Steane,3,3,p0p,14,14,0.0,True
+Steane,3,3,p0m,15,15,0.0,True
+Steane,3,3,p10,15,15,0.0,True
+Steane,3,3,p11,15,15,0.0,True
+Steane,3,3,p1p,15,15,0.0,True
+Steane,3,3,p1m,15,15,0.0,True
+Steane,3,3,pp0,14,14,0.0,True
+Steane,3,3,pp1,15,15,0.0,True
+Steane,3,3,ppp,14,14,0.0,True
+Steane,3,3,ppm,15,15,0.0,True
+Steane,3,3,pm0,15,15,0.0,True
+Steane,3,3,pm1,15,15,0.0,True
+Steane,3,3,pmp,15,15,0.0,True
+Steane,3,3,pmm,15,15,0.0,True
+Steane,3,3,m00,15,15,0.0,True
+Steane,3,3,m01,15,15,0.0,True
+Steane,3,3,m0p,15,15,0.0,True
+Steane,3,3,m0m,15,15,0.0,True
+Steane,3,3,m10,15,15,0.0,True
+Steane,3,3,m11,15,15,0.0,True
+Steane,3,3,m1p,15,15,0.0,True
+Steane,3,3,m1m,15,15,0.0,True
+Steane,3,3,mp0,15,15,0.0,True
+Steane,3,3,mp1,15,15,0.0,True
+Steane,3,3,mpp,15,15,0.0,True
+Steane,3,3,mpm,15,15,0.0,True
+Steane,3,3,mm0,15,15,0.0,True
+Steane,3,3,mm1,15,15,0.0,True
+Steane,3,3,mmp,15,15,0.0,True
+Steane,3,3,mmm,15,15,0.0,True
+Shor,3,1,0,13,13,0.0,True
+Shor,3,1,1,14,14,0.0,True
+Shor,3,1,p,12,12,0.0,True
+Shor,3,1,m,13,13,0.0,True
+Shor,3,2,00,13,13,0.0,True
+Shor,3,2,01,14,14,0.0,True
+Shor,3,2,0p,13,13,0.0,True
+Shor,3,2,0m,13,13,0.0,True
+Shor,3,2,10,14,14,0.0,True
+Shor,3,2,11,14,14,0.0,True
+Shor,3,2,1p,14,14,0.0,True
+Shor,3,2,1m,14,14,0.0,True
+Shor,3,2,p0,13,13,0.0,True
+Shor,3,2,p1,14,14,0.0,True
+Shor,3,2,pp,12,12,0.0,True
+Shor,3,2,pm,13,13,0.0,True
+Shor,3,2,m0,13,13,0.0,True
+Shor,3,2,m1,14,14,0.0,True
+Shor,3,2,mp,13,13,0.0,True
+Shor,3,2,mm,13,13,0.0,True
+Shor,3,3,000,13,13,0.0,True
+Shor,3,3,001,14,14,0.0,True
+Shor,3,3,00p,13,13,0.0,True
+Shor,3,3,00m,13,13,0.0,True
+Shor,3,3,010,14,14,0.0,True
+Shor,3,3,011,14,14,0.0,True
+Shor,3,3,01p,14,14,0.0,True
+Shor,3,3,01m,14,14,0.0,True
+Shor,3,3,0p0,13,13,0.0,True
+Shor,3,3,0p1,14,14,0.0,True
+Shor,3,3,0pp,13,13,0.0,True
+Shor,3,3,0pm,13,13,0.0,True
+Shor,3,3,0m0,13,13,0.0,True
+Shor,3,3,0m1,14,14,0.0,True
+Shor,3,3,0mp,13,13,0.0,True
+Shor,3,3,0mm,13,13,0.0,True
+Shor,3,3,100,14,14,0.0,True
+Shor,3,3,101,14,14,0.0,True
+Shor,3,3,10p,14,14,0.0,True
+Shor,3,3,10m,14,14,0.0,True
+Shor,3,3,110,14,14,0.0,True
+Shor,3,3,111,14,14,0.0,True
+Shor,3,3,11p,14,14,0.0,True
+Shor,3,3,11m,14,14,0.0,True
+Shor,3,3,1p0,14,14,0.0,True
+Shor,3,3,1p1,14,14,0.0,True
+Shor,3,3,1pp,14,14,0.0,True
+Shor,3,3,1pm,14,14,0.0,True
+Shor,3,3,1m0,14,14,0.0,True
+Shor,3,3,1m1,14,14,0.0,True
+Shor,3,3,1mp,14,14,0.0,True
+Shor,3,3,1mm,14,14,0.0,True
+Shor,3,3,p00,13,13,0.0,True
+Shor,3,3,p01,14,14,0.0,True
+Shor,3,3,p0p,13,13,0.0,True
+Shor,3,3,p0m,13,13,0.0,True
+Shor,3,3,p10,14,14,0.0,True
+Shor,3,3,p11,14,14,0.0,True
+Shor,3,3,p1p,14,14,0.0,True
+Shor,3,3,p1m,14,14,0.0,True
+Shor,3,3,pp0,13,13,0.0,True
+Shor,3,3,pp1,14,14,0.0,True
+Shor,3,3,ppp,12,12,0.0,True
+Shor,3,3,ppm,13,13,0.0,True
+Shor,3,3,pm0,13,13,0.0,True
+Shor,3,3,pm1,14,14,0.0,True
+Shor,3,3,pmp,13,13,0.0,True
+Shor,3,3,pmm,13,13,0.0,True
+Shor,3,3,m00,13,13,0.0,True
+Shor,3,3,m01,14,14,0.0,True
+Shor,3,3,m0p,13,13,0.0,True
+Shor,3,3,m0m,13,13,0.0,True
+Shor,3,3,m10,14,14,0.0,True
+Shor,3,3,m11,14,14,0.0,True
+Shor,3,3,m1p,14,14,0.0,True
+Shor,3,3,m1m,14,14,0.0,True
+Shor,3,3,mp0,13,13,0.0,True
+Shor,3,3,mp1,14,14,0.0,True
+Shor,3,3,mpp,13,13,0.0,True
+Shor,3,3,mpm,13,13,0.0,True
+Shor,3,3,mm0,13,13,0.0,True
+Shor,3,3,mm1,14,14,0.0,True
+Shor,3,3,mmp,13,13,0.0,True
+Shor,3,3,mmm,13,13,0.0,True
+Tetrahedral,3,1,0,19,19,0.0,True
+Tetrahedral,3,1,1,20,20,0.0,True
+Tetrahedral,3,1,p,20,21,4.761904761904762,True
+Tetrahedral,3,1,m,21,22,4.545454545454546,True
+Tetrahedral,3,2,00,19,19,0.0,True
+Tetrahedral,3,2,01,20,20,0.0,True
+Tetrahedral,3,2,0p,20,21,4.761904761904762,True
+Tetrahedral,3,2,0m,21,22,4.545454545454546,True
+Tetrahedral,3,2,10,20,20,0.0,True
+Tetrahedral,3,2,11,20,20,0.0,True
+Tetrahedral,3,2,1p,20,21,4.761904761904762,True
+Tetrahedral,3,2,1m,21,22,4.545454545454546,True
+Tetrahedral,3,2,p0,20,21,4.761904761904762,True
+Tetrahedral,3,2,p1,20,21,4.761904761904762,True
+Tetrahedral,3,2,pp,20,21,4.761904761904762,True
+Tetrahedral,3,2,pm,21,22,4.545454545454546,True
+Tetrahedral,3,2,m0,21,22,4.545454545454546,True
+Tetrahedral,3,2,m1,21,22,4.545454545454546,True
+Tetrahedral,3,2,mp,21,22,4.545454545454546,True
+Tetrahedral,3,2,mm,21,22,4.545454545454546,True
+Tetrahedral,3,3,000,19,19,0.0,True
+Tetrahedral,3,3,001,20,20,0.0,True
+Tetrahedral,3,3,00p,20,21,4.761904761904762,True
+Tetrahedral,3,3,00m,21,22,4.545454545454546,True
+Tetrahedral,3,3,010,20,20,0.0,True
+Tetrahedral,3,3,011,20,20,0.0,True
+Tetrahedral,3,3,01p,20,21,4.761904761904762,True
+Tetrahedral,3,3,01m,21,22,4.545454545454546,True
+Tetrahedral,3,3,0p0,20,21,4.761904761904762,True
+Tetrahedral,3,3,0p1,20,21,4.761904761904762,True
+Tetrahedral,3,3,0pp,20,21,4.761904761904762,True
+Tetrahedral,3,3,0pm,21,22,4.545454545454546,True
+Tetrahedral,3,3,0m0,21,22,4.545454545454546,True
+Tetrahedral,3,3,0m1,21,22,4.545454545454546,True
+Tetrahedral,3,3,0mp,21,22,4.545454545454546,True
+Tetrahedral,3,3,0mm,21,22,4.545454545454546,True
+Tetrahedral,3,3,100,20,20,0.0,True
+Tetrahedral,3,3,101,20,20,0.0,True
+Tetrahedral,3,3,10p,20,21,4.761904761904762,True
+Tetrahedral,3,3,10m,21,22,4.545454545454546,True
+Tetrahedral,3,3,110,20,20,0.0,True
+Tetrahedral,3,3,111,20,20,0.0,True
+Tetrahedral,3,3,11p,20,21,4.761904761904762,True
+Tetrahedral,3,3,11m,21,22,4.545454545454546,True
+Tetrahedral,3,3,1p0,20,21,4.761904761904762,True
+Tetrahedral,3,3,1p1,20,21,4.761904761904762,True
+Tetrahedral,3,3,1pp,20,21,4.761904761904762,True
+Tetrahedral,3,3,1pm,21,22,4.545454545454546,True
+Tetrahedral,3,3,1m0,21,22,4.545454545454546,True
+Tetrahedral,3,3,1m1,21,22,4.545454545454546,True
+Tetrahedral,3,3,1mp,21,22,4.545454545454546,True
+Tetrahedral,3,3,1mm,21,22,4.545454545454546,True
+Tetrahedral,3,3,p00,20,21,4.761904761904762,True
+Tetrahedral,3,3,p01,20,21,4.761904761904762,True
+Tetrahedral,3,3,p0p,20,21,4.761904761904762,True
+Tetrahedral,3,3,p0m,21,22,4.545454545454546,True
+Tetrahedral,3,3,p10,20,21,4.761904761904762,True
+Tetrahedral,3,3,p11,20,21,4.761904761904762,True
+Tetrahedral,3,3,p1p,20,21,4.761904761904762,True
+Tetrahedral,3,3,p1m,21,22,4.545454545454546,True
+Tetrahedral,3,3,pp0,20,21,4.761904761904762,True
+Tetrahedral,3,3,pp1,20,21,4.761904761904762,True
+Tetrahedral,3,3,ppp,20,21,4.761904761904762,True
+Tetrahedral,3,3,ppm,21,22,4.545454545454546,True
+Tetrahedral,3,3,pm0,21,22,4.545454545454546,True
+Tetrahedral,3,3,pm1,21,22,4.545454545454546,True
+Tetrahedral,3,3,pmp,21,22,4.545454545454546,True
+Tetrahedral,3,3,pmm,21,22,4.545454545454546,True
+Tetrahedral,3,3,m00,21,22,4.545454545454546,True
+Tetrahedral,3,3,m01,21,22,4.545454545454546,True
+Tetrahedral,3,3,m0p,21,22,4.545454545454546,True
+Tetrahedral,3,3,m0m,21,22,4.545454545454546,True
+Tetrahedral,3,3,m10,21,22,4.545454545454546,True
+Tetrahedral,3,3,m11,21,22,4.545454545454546,True
+Tetrahedral,3,3,m1p,21,22,4.545454545454546,True
+Tetrahedral,3,3,m1m,21,22,4.545454545454546,True
+Tetrahedral,3,3,mp0,21,22,4.545454545454546,True
+Tetrahedral,3,3,mp1,21,22,4.545454545454546,True
+Tetrahedral,3,3,mpp,21,22,4.545454545454546,True
+Tetrahedral,3,3,mpm,21,22,4.545454545454546,True
+Tetrahedral,3,3,mm0,21,22,4.545454545454546,True
+Tetrahedral,3,3,mm1,21,22,4.545454545454546,True
+Tetrahedral,3,3,mmp,21,22,4.545454545454546,True
+Tetrahedral,3,3,mmm,21,22,4.545454545454546,True
+Golay,7,1,0,35,35,0.0,True
+Golay,7,1,1,36,36,0.0,True
+Golay,7,1,p,35,36,2.7777777777777777,True
+Golay,7,1,m,36,37,2.7027027027027026,True
+Golay,7,2,00,35,35,0.0,True
+Golay,7,2,01,36,36,0.0,True
+Golay,7,2,0p,35,36,2.7777777777777777,True
+Golay,7,2,0m,36,37,2.7027027027027026,True
+Golay,7,2,10,36,36,0.0,True
+Golay,7,2,11,36,36,0.0,True
+Golay,7,2,1p,36,36,0.0,True
+Golay,7,2,1m,36,37,2.7027027027027026,True
+Golay,7,2,p0,35,36,2.7777777777777777,True
+Golay,7,2,p1,36,36,0.0,True
+Golay,7,2,pp,35,36,2.7777777777777777,True
+Golay,7,2,pm,36,37,2.7027027027027026,True
+Golay,7,2,m0,36,37,2.7027027027027026,True
+Golay,7,2,m1,36,37,2.7027027027027026,True
+Golay,7,2,mp,36,37,2.7027027027027026,True
+Golay,7,2,mm,36,37,2.7027027027027026,True
+Golay,7,3,000,35,35,0.0,True
+Golay,7,3,001,36,36,0.0,True
+Golay,7,3,00p,35,36,2.7777777777777777,True
+Golay,7,3,00m,36,37,2.7027027027027026,True
+Golay,7,3,010,36,36,0.0,True
+Golay,7,3,011,36,36,0.0,True
+Golay,7,3,01p,36,36,0.0,True
+Golay,7,3,01m,36,37,2.7027027027027026,True
+Golay,7,3,0p0,35,36,2.7777777777777777,True
+Golay,7,3,0p1,36,36,0.0,True
+Golay,7,3,0pp,35,36,2.7777777777777777,True
+Golay,7,3,0pm,36,37,2.7027027027027026,True
+Golay,7,3,0m0,36,37,2.7027027027027026,True
+Golay,7,3,0m1,36,37,2.7027027027027026,True
+Golay,7,3,0mp,36,37,2.7027027027027026,True
+Golay,7,3,0mm,36,37,2.7027027027027026,True
+Golay,7,3,100,36,36,0.0,True
+Golay,7,3,101,36,36,0.0,True
+Golay,7,3,10p,36,36,0.0,True
+Golay,7,3,10m,36,37,2.7027027027027026,True
+Golay,7,3,110,36,36,0.0,True
+Golay,7,3,111,36,36,0.0,True
+Golay,7,3,11p,36,36,0.0,True
+Golay,7,3,11m,36,37,2.7027027027027026,True
+Golay,7,3,1p0,36,36,0.0,True
+Golay,7,3,1p1,36,36,0.0,True
+Golay,7,3,1pp,36,36,0.0,True
+Golay,7,3,1pm,36,37,2.7027027027027026,True
+Golay,7,3,1m0,36,37,2.7027027027027026,True
+Golay,7,3,1m1,36,37,2.7027027027027026,True
+Golay,7,3,1mp,36,37,2.7027027027027026,True
+Golay,7,3,1mm,36,37,2.7027027027027026,True
+Golay,7,3,p00,35,36,2.7777777777777777,True
+Golay,7,3,p01,36,36,0.0,True
+Golay,7,3,p0p,35,36,2.7777777777777777,True
+Golay,7,3,p0m,36,37,2.7027027027027026,True
+Golay,7,3,p10,36,36,0.0,True
+Golay,7,3,p11,36,36,0.0,True
+Golay,7,3,p1p,36,36,0.0,True
+Golay,7,3,p1m,36,37,2.7027027027027026,True
+Golay,7,3,pp0,35,36,2.7777777777777777,True
+Golay,7,3,pp1,36,36,0.0,True
+Golay,7,3,ppp,35,36,2.7777777777777777,True
+Golay,7,3,ppm,36,37,2.7027027027027026,True
+Golay,7,3,pm0,36,37,2.7027027027027026,True
+Golay,7,3,pm1,36,37,2.7027027027027026,True
+Golay,7,3,pmp,36,37,2.7027027027027026,True
+Golay,7,3,pmm,36,37,2.7027027027027026,True
+Golay,7,3,m00,36,37,2.7027027027027026,True
+Golay,7,3,m01,36,37,2.7027027027027026,True
+Golay,7,3,m0p,36,37,2.7027027027027026,True
+Golay,7,3,m0m,36,37,2.7027027027027026,True
+Golay,7,3,m10,36,37,2.7027027027027026,True
+Golay,7,3,m11,36,37,2.7027027027027026,True
+Golay,7,3,m1p,36,37,2.7027027027027026,True
+Golay,7,3,m1m,36,37,2.7027027027027026,True
+Golay,7,3,mp0,36,37,2.7027027027027026,True
+Golay,7,3,mp1,36,37,2.7027027027027026,True
+Golay,7,3,mpp,36,37,2.7027027027027026,True
+Golay,7,3,mpm,36,37,2.7027027027027026,True
+Golay,7,3,mm0,36,37,2.7027027027027026,True
+Golay,7,3,mm1,36,37,2.7027027027027026,True
+Golay,7,3,mmp,36,37,2.7027027027027026,True
+Golay,7,3,mmm,36,37,2.7027027027027026,True
+Surface,3,1,0,12,12,0.0,True
+Surface,3,1,1,13,13,0.0,True
+Surface,3,1,p,12,14,14.285714285714285,True
+Surface,3,1,m,13,15,13.333333333333334,True
+Surface,3,2,00,12,12,0.0,True
+Surface,3,2,01,13,13,0.0,True
+Surface,3,2,0p,12,14,14.285714285714285,True
+Surface,3,2,0m,13,15,13.333333333333334,True
+Surface,3,2,10,13,13,0.0,True
+Surface,3,2,11,13,13,0.0,True
+Surface,3,2,1p,13,14,7.142857142857142,True
+Surface,3,2,1m,13,15,13.333333333333334,True
+Surface,3,2,p0,12,14,14.285714285714285,True
+Surface,3,2,p1,13,14,7.142857142857142,True
+Surface,3,2,pp,12,14,14.285714285714285,True
+Surface,3,2,pm,13,15,13.333333333333334,True
+Surface,3,2,m0,13,15,13.333333333333334,True
+Surface,3,2,m1,13,15,13.333333333333334,True
+Surface,3,2,mp,13,15,13.333333333333334,True
+Surface,3,2,mm,13,15,13.333333333333334,True
+Surface,3,3,000,12,12,0.0,True
+Surface,3,3,001,13,13,0.0,True
+Surface,3,3,00p,12,14,14.285714285714285,True
+Surface,3,3,00m,13,15,13.333333333333334,True
+Surface,3,3,010,13,13,0.0,True
+Surface,3,3,011,13,13,0.0,True
+Surface,3,3,01p,13,14,7.142857142857142,True
+Surface,3,3,01m,13,15,13.333333333333334,True
+Surface,3,3,0p0,12,14,14.285714285714285,True
+Surface,3,3,0p1,13,14,7.142857142857142,True
+Surface,3,3,0pp,12,14,14.285714285714285,True
+Surface,3,3,0pm,13,15,13.333333333333334,True
+Surface,3,3,0m0,13,15,13.333333333333334,True
+Surface,3,3,0m1,13,15,13.333333333333334,True
+Surface,3,3,0mp,13,15,13.333333333333334,True
+Surface,3,3,0mm,13,15,13.333333333333334,True
+Surface,3,3,100,13,13,0.0,True
+Surface,3,3,101,13,13,0.0,True
+Surface,3,3,10p,13,14,7.142857142857142,True
+Surface,3,3,10m,13,15,13.333333333333334,True
+Surface,3,3,110,13,13,0.0,True
+Surface,3,3,111,13,13,0.0,True
+Surface,3,3,11p,13,14,7.142857142857142,True
+Surface,3,3,11m,13,15,13.333333333333334,True
+Surface,3,3,1p0,13,14,7.142857142857142,True
+Surface,3,3,1p1,13,14,7.142857142857142,True
+Surface,3,3,1pp,13,14,7.142857142857142,True
+Surface,3,3,1pm,13,15,13.333333333333334,True
+Surface,3,3,1m0,13,15,13.333333333333334,True
+Surface,3,3,1m1,13,15,13.333333333333334,True
+Surface,3,3,1mp,13,15,13.333333333333334,True
+Surface,3,3,1mm,13,15,13.333333333333334,True
+Surface,3,3,p00,12,14,14.285714285714285,True
+Surface,3,3,p01,13,14,7.142857142857142,True
+Surface,3,3,p0p,12,14,14.285714285714285,True
+Surface,3,3,p0m,13,15,13.333333333333334,True
+Surface,3,3,p10,13,14,7.142857142857142,True
+Surface,3,3,p11,13,14,7.142857142857142,True
+Surface,3,3,p1p,13,14,7.142857142857142,True
+Surface,3,3,p1m,13,15,13.333333333333334,True
+Surface,3,3,pp0,12,14,14.285714285714285,True
+Surface,3,3,pp1,13,14,7.142857142857142,True
+Surface,3,3,ppp,12,14,14.285714285714285,True
+Surface,3,3,ppm,13,15,13.333333333333334,True
+Surface,3,3,pm0,13,15,13.333333333333334,True
+Surface,3,3,pm1,13,15,13.333333333333334,True
+Surface,3,3,pmp,13,15,13.333333333333334,True
+Surface,3,3,pmm,13,15,13.333333333333334,True
+Surface,3,3,m00,13,15,13.333333333333334,True
+Surface,3,3,m01,13,15,13.333333333333334,True
+Surface,3,3,m0p,13,15,13.333333333333334,True
+Surface,3,3,m0m,13,15,13.333333333333334,True
+Surface,3,3,m10,13,15,13.333333333333334,True
+Surface,3,3,m11,13,15,13.333333333333334,True
+Surface,3,3,m1p,13,15,13.333333333333334,True
+Surface,3,3,m1m,13,15,13.333333333333334,True
+Surface,3,3,mp0,13,15,13.333333333333334,True
+Surface,3,3,mp1,13,15,13.333333333333334,True
+Surface,3,3,mpp,13,15,13.333333333333334,True
+Surface,3,3,mpm,13,15,13.333333333333334,True
+Surface,3,3,mm0,13,15,13.333333333333334,True
+Surface,3,3,mm1,13,15,13.333333333333334,True
+Surface,3,3,mmp,13,15,13.333333333333334,True
+Surface,3,3,mmm,13,15,13.333333333333334,True
+Surface,5,1,0,13,13,0.0,True
+Surface,5,1,1,14,14,0.0,True
+Surface,5,1,p,15,15,0.0,True
+Surface,5,1,m,16,16,0.0,True
+Surface,5,2,00,13,13,0.0,True
+Surface,5,2,01,14,14,0.0,True
+Surface,5,2,0p,15,15,0.0,True
+Surface,5,2,0m,16,16,0.0,True
+Surface,5,2,10,14,14,0.0,True
+Surface,5,2,11,14,14,0.0,True
+Surface,5,2,1p,15,15,0.0,True
+Surface,5,2,1m,16,16,0.0,True
+Surface,5,2,p0,15,15,0.0,True
+Surface,5,2,p1,15,15,0.0,True
+Surface,5,2,pp,15,15,0.0,True
+Surface,5,2,pm,16,16,0.0,True
+Surface,5,2,m0,16,16,0.0,True
+Surface,5,2,m1,16,16,0.0,True
+Surface,5,2,mp,16,16,0.0,True
+Surface,5,2,mm,16,16,0.0,True
+Surface,5,3,000,13,13,0.0,True
+Surface,5,3,001,14,14,0.0,True
+Surface,5,3,00p,15,15,0.0,True
+Surface,5,3,00m,16,16,0.0,True
+Surface,5,3,010,14,14,0.0,True
+Surface,5,3,011,14,14,0.0,True
+Surface,5,3,01p,15,15,0.0,True
+Surface,5,3,01m,16,16,0.0,True
+Surface,5,3,0p0,15,15,0.0,True
+Surface,5,3,0p1,15,15,0.0,True
+Surface,5,3,0pp,15,15,0.0,True
+Surface,5,3,0pm,16,16,0.0,True
+Surface,5,3,0m0,16,16,0.0,True
+Surface,5,3,0m1,16,16,0.0,True
+Surface,5,3,0mp,16,16,0.0,True
+Surface,5,3,0mm,16,16,0.0,True
+Surface,5,3,100,14,14,0.0,True
+Surface,5,3,101,14,14,0.0,True
+Surface,5,3,10p,15,15,0.0,True
+Surface,5,3,10m,16,16,0.0,True
+Surface,5,3,110,14,14,0.0,True
+Surface,5,3,111,14,14,0.0,True
+Surface,5,3,11p,15,15,0.0,True
+Surface,5,3,11m,16,16,0.0,True
+Surface,5,3,1p0,15,15,0.0,True
+Surface,5,3,1p1,15,15,0.0,True
+Surface,5,3,1pp,15,15,0.0,True
+Surface,5,3,1pm,16,16,0.0,True
+Surface,5,3,1m0,16,16,0.0,True
+Surface,5,3,1m1,16,16,0.0,True
+Surface,5,3,1mp,16,16,0.0,True
+Surface,5,3,1mm,16,16,0.0,True
+Surface,5,3,p00,15,15,0.0,True
+Surface,5,3,p01,15,15,0.0,True
+Surface,5,3,p0p,15,15,0.0,True
+Surface,5,3,p0m,16,16,0.0,True
+Surface,5,3,p10,15,15,0.0,True
+Surface,5,3,p11,15,15,0.0,True
+Surface,5,3,p1p,15,15,0.0,True
+Surface,5,3,p1m,16,16,0.0,True
+Surface,5,3,pp0,15,15,0.0,True
+Surface,5,3,pp1,15,15,0.0,True
+Surface,5,3,ppp,15,15,0.0,True
+Surface,5,3,ppm,16,16,0.0,True
+Surface,5,3,pm0,16,16,0.0,True
+Surface,5,3,pm1,16,16,0.0,True
+Surface,5,3,pmp,16,16,0.0,True
+Surface,5,3,pmm,16,16,0.0,True
+Surface,5,3,m00,16,16,0.0,True
+Surface,5,3,m01,16,16,0.0,True
+Surface,5,3,m0p,16,16,0.0,True
+Surface,5,3,m0m,16,16,0.0,True
+Surface,5,3,m10,16,16,0.0,True
+Surface,5,3,m11,16,16,0.0,True
+Surface,5,3,m1p,16,16,0.0,True
+Surface,5,3,m1m,16,16,0.0,True
+Surface,5,3,mp0,16,16,0.0,True
+Surface,5,3,mp1,16,16,0.0,True
+Surface,5,3,mpp,16,16,0.0,True
+Surface,5,3,mpm,16,16,0.0,True
+Surface,5,3,mm0,16,16,0.0,True
+Surface,5,3,mm1,16,16,0.0,True
+Surface,5,3,mmp,16,16,0.0,True
+Surface,5,3,mmm,16,16,0.0,True
+Hexagonal Color,3,1,0,14,14,0.0,True
+Hexagonal Color,3,1,1,14,14,0.0,True
+Hexagonal Color,3,1,p,14,15,6.666666666666667,True
+Hexagonal Color,3,1,m,14,15,6.666666666666667,True
+Hexagonal Color,3,2,00,14,14,0.0,True
+Hexagonal Color,3,2,01,14,14,0.0,True
+Hexagonal Color,3,2,0p,14,15,6.666666666666667,True
+Hexagonal Color,3,2,0m,14,15,6.666666666666667,True
+Hexagonal Color,3,2,10,14,14,0.0,True
+Hexagonal Color,3,2,11,14,14,0.0,True
+Hexagonal Color,3,2,1p,14,15,6.666666666666667,True
+Hexagonal Color,3,2,1m,14,15,6.666666666666667,True
+Hexagonal Color,3,2,p0,14,15,6.666666666666667,True
+Hexagonal Color,3,2,p1,14,15,6.666666666666667,True
+Hexagonal Color,3,2,pp,14,15,6.666666666666667,True
+Hexagonal Color,3,2,pm,14,15,6.666666666666667,True
+Hexagonal Color,3,2,m0,14,15,6.666666666666667,True
+Hexagonal Color,3,2,m1,14,15,6.666666666666667,True
+Hexagonal Color,3,2,mp,14,15,6.666666666666667,True
+Hexagonal Color,3,2,mm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,000,14,14,0.0,True
+Hexagonal Color,3,3,001,14,14,0.0,True
+Hexagonal Color,3,3,00p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,00m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,010,14,14,0.0,True
+Hexagonal Color,3,3,011,14,14,0.0,True
+Hexagonal Color,3,3,01p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,01m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0p0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0p1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0pp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0pm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0m0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0m1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0mp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,0mm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,100,14,14,0.0,True
+Hexagonal Color,3,3,101,14,14,0.0,True
+Hexagonal Color,3,3,10p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,10m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,110,14,14,0.0,True
+Hexagonal Color,3,3,111,14,14,0.0,True
+Hexagonal Color,3,3,11p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,11m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1p0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1p1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1pp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1pm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1m0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1m1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1mp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,1mm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p00,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p01,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p0p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p0m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p10,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p11,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p1p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,p1m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pp0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pp1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,ppp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,ppm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pm0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pm1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pmp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,pmm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m00,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m01,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m0p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m0m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m10,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m11,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m1p,14,15,6.666666666666667,True
+Hexagonal Color,3,3,m1m,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mp0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mp1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mpp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mpm,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mm0,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mm1,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mmp,14,15,6.666666666666667,True
+Hexagonal Color,3,3,mmm,14,15,6.666666666666667,True
+Hexagonal Color,5,1,0,19,19,0.0,True
+Hexagonal Color,5,1,1,19,19,0.0,True
+Hexagonal Color,5,1,p,19,19,0.0,True
+Hexagonal Color,5,1,m,19,19,0.0,True
+Hexagonal Color,5,2,00,19,19,0.0,True
+Hexagonal Color,5,2,01,19,19,0.0,True
+Hexagonal Color,5,2,0p,19,19,0.0,True
+Hexagonal Color,5,2,0m,19,19,0.0,True
+Hexagonal Color,5,2,10,19,19,0.0,True
+Hexagonal Color,5,2,11,19,19,0.0,True
+Hexagonal Color,5,2,1p,19,19,0.0,True
+Hexagonal Color,5,2,1m,19,19,0.0,True
+Hexagonal Color,5,2,p0,19,19,0.0,True
+Hexagonal Color,5,2,p1,19,19,0.0,True
+Hexagonal Color,5,2,pp,19,19,0.0,True
+Hexagonal Color,5,2,pm,19,19,0.0,True
+Hexagonal Color,5,2,m0,19,19,0.0,True
+Hexagonal Color,5,2,m1,19,19,0.0,True
+Hexagonal Color,5,2,mp,19,19,0.0,True
+Hexagonal Color,5,2,mm,19,19,0.0,True
+Hexagonal Color,5,3,000,19,19,0.0,True
+Hexagonal Color,5,3,001,19,19,0.0,True
+Hexagonal Color,5,3,00p,19,19,0.0,True
+Hexagonal Color,5,3,00m,19,19,0.0,True
+Hexagonal Color,5,3,010,19,19,0.0,True
+Hexagonal Color,5,3,011,19,19,0.0,True
+Hexagonal Color,5,3,01p,19,19,0.0,True
+Hexagonal Color,5,3,01m,19,19,0.0,True
+Hexagonal Color,5,3,0p0,19,19,0.0,True
+Hexagonal Color,5,3,0p1,19,19,0.0,True
+Hexagonal Color,5,3,0pp,19,19,0.0,True
+Hexagonal Color,5,3,0pm,19,19,0.0,True
+Hexagonal Color,5,3,0m0,19,19,0.0,True
+Hexagonal Color,5,3,0m1,19,19,0.0,True
+Hexagonal Color,5,3,0mp,19,19,0.0,True
+Hexagonal Color,5,3,0mm,19,19,0.0,True
+Hexagonal Color,5,3,100,19,19,0.0,True
+Hexagonal Color,5,3,101,19,19,0.0,True
+Hexagonal Color,5,3,10p,19,19,0.0,True
+Hexagonal Color,5,3,10m,19,19,0.0,True
+Hexagonal Color,5,3,110,19,19,0.0,True
+Hexagonal Color,5,3,111,19,19,0.0,True
+Hexagonal Color,5,3,11p,19,19,0.0,True
+Hexagonal Color,5,3,11m,19,19,0.0,True
+Hexagonal Color,5,3,1p0,19,19,0.0,True
+Hexagonal Color,5,3,1p1,19,19,0.0,True
+Hexagonal Color,5,3,1pp,19,19,0.0,True
+Hexagonal Color,5,3,1pm,19,19,0.0,True
+Hexagonal Color,5,3,1m0,19,19,0.0,True
+Hexagonal Color,5,3,1m1,19,19,0.0,True
+Hexagonal Color,5,3,1mp,19,19,0.0,True
+Hexagonal Color,5,3,1mm,19,19,0.0,True
+Hexagonal Color,5,3,p00,19,19,0.0,True
+Hexagonal Color,5,3,p01,19,19,0.0,True
+Hexagonal Color,5,3,p0p,19,19,0.0,True
+Hexagonal Color,5,3,p0m,19,19,0.0,True
+Hexagonal Color,5,3,p10,19,19,0.0,True
+Hexagonal Color,5,3,p11,19,19,0.0,True
+Hexagonal Color,5,3,p1p,19,19,0.0,True
+Hexagonal Color,5,3,p1m,19,19,0.0,True
+Hexagonal Color,5,3,pp0,19,19,0.0,True
+Hexagonal Color,5,3,pp1,19,19,0.0,True
+Hexagonal Color,5,3,ppp,19,19,0.0,True
+Hexagonal Color,5,3,ppm,19,19,0.0,True
+Hexagonal Color,5,3,pm0,19,19,0.0,True
+Hexagonal Color,5,3,pm1,19,19,0.0,True
+Hexagonal Color,5,3,pmp,19,19,0.0,True
+Hexagonal Color,5,3,pmm,19,19,0.0,True
+Hexagonal Color,5,3,m00,19,19,0.0,True
+Hexagonal Color,5,3,m01,19,19,0.0,True
+Hexagonal Color,5,3,m0p,19,19,0.0,True
+Hexagonal Color,5,3,m0m,19,19,0.0,True
+Hexagonal Color,5,3,m10,19,19,0.0,True
+Hexagonal Color,5,3,m11,19,19,0.0,True
+Hexagonal Color,5,3,m1p,19,19,0.0,True
+Hexagonal Color,5,3,m1m,19,19,0.0,True
+Hexagonal Color,5,3,mp0,19,19,0.0,True
+Hexagonal Color,5,3,mp1,19,19,0.0,True
+Hexagonal Color,5,3,mpp,19,19,0.0,True
+Hexagonal Color,5,3,mpm,19,19,0.0,True
+Hexagonal Color,5,3,mm0,19,19,0.0,True
+Hexagonal Color,5,3,mm1,19,19,0.0,True
+Hexagonal Color,5,3,mmp,19,19,0.0,True
+Hexagonal Color,5,3,mmm,19,19,0.0,True
+Hexagonal Color,7,1,0,20,20,0.0,True
+Hexagonal Color,7,1,1,20,20,0.0,True
+Hexagonal Color,7,1,p,20,20,0.0,True
+Hexagonal Color,7,1,m,20,20,0.0,True
+Hexagonal Color,7,2,00,20,20,0.0,True
+Hexagonal Color,7,2,01,20,20,0.0,True
+Hexagonal Color,7,2,0p,20,20,0.0,True
+Hexagonal Color,7,2,0m,20,20,0.0,True
+Hexagonal Color,7,2,10,20,20,0.0,True
+Hexagonal Color,7,2,11,20,20,0.0,True
+Hexagonal Color,7,2,1p,20,20,0.0,True
+Hexagonal Color,7,2,1m,20,20,0.0,True
+Hexagonal Color,7,2,p0,20,20,0.0,True
+Hexagonal Color,7,2,p1,20,20,0.0,True
+Hexagonal Color,7,2,pp,20,20,0.0,True
+Hexagonal Color,7,2,pm,20,20,0.0,True
+Hexagonal Color,7,2,m0,20,20,0.0,True
+Hexagonal Color,7,2,m1,20,20,0.0,True
+Hexagonal Color,7,2,mp,20,20,0.0,True
+Hexagonal Color,7,2,mm,20,20,0.0,True
+Hexagonal Color,7,3,000,20,20,0.0,True
+Hexagonal Color,7,3,001,20,20,0.0,True
+Hexagonal Color,7,3,00p,20,20,0.0,True
+Hexagonal Color,7,3,00m,20,20,0.0,True
+Hexagonal Color,7,3,010,20,20,0.0,True
+Hexagonal Color,7,3,011,20,20,0.0,True
+Hexagonal Color,7,3,01p,20,20,0.0,True
+Hexagonal Color,7,3,01m,20,20,0.0,True
+Hexagonal Color,7,3,0p0,20,20,0.0,True
+Hexagonal Color,7,3,0p1,20,20,0.0,True
+Hexagonal Color,7,3,0pp,20,20,0.0,True
+Hexagonal Color,7,3,0pm,20,20,0.0,True
+Hexagonal Color,7,3,0m0,20,20,0.0,True
+Hexagonal Color,7,3,0m1,20,20,0.0,True
+Hexagonal Color,7,3,0mp,20,20,0.0,True
+Hexagonal Color,7,3,0mm,20,20,0.0,True
+Hexagonal Color,7,3,100,20,20,0.0,True
+Hexagonal Color,7,3,101,20,20,0.0,True
+Hexagonal Color,7,3,10p,20,20,0.0,True
+Hexagonal Color,7,3,10m,20,20,0.0,True
+Hexagonal Color,7,3,110,20,20,0.0,True
+Hexagonal Color,7,3,111,20,20,0.0,True
+Hexagonal Color,7,3,11p,20,20,0.0,True
+Hexagonal Color,7,3,11m,20,20,0.0,True
+Hexagonal Color,7,3,1p0,20,20,0.0,True
+Hexagonal Color,7,3,1p1,20,20,0.0,True
+Hexagonal Color,7,3,1pp,20,20,0.0,True
+Hexagonal Color,7,3,1pm,20,20,0.0,True
+Hexagonal Color,7,3,1m0,20,20,0.0,True
+Hexagonal Color,7,3,1m1,20,20,0.0,True
+Hexagonal Color,7,3,1mp,20,20,0.0,True
+Hexagonal Color,7,3,1mm,20,20,0.0,True
+Hexagonal Color,7,3,p00,20,20,0.0,True
+Hexagonal Color,7,3,p01,20,20,0.0,True
+Hexagonal Color,7,3,p0p,20,20,0.0,True
+Hexagonal Color,7,3,p0m,20,20,0.0,True
+Hexagonal Color,7,3,p10,20,20,0.0,True
+Hexagonal Color,7,3,p11,20,20,0.0,True
+Hexagonal Color,7,3,p1p,20,20,0.0,True
+Hexagonal Color,7,3,p1m,20,20,0.0,True
+Hexagonal Color,7,3,pp0,20,20,0.0,True
+Hexagonal Color,7,3,pp1,20,20,0.0,True
+Hexagonal Color,7,3,ppp,20,20,0.0,True
+Hexagonal Color,7,3,ppm,20,20,0.0,True
+Hexagonal Color,7,3,pm0,20,20,0.0,True
+Hexagonal Color,7,3,pm1,20,20,0.0,True
+Hexagonal Color,7,3,pmp,20,20,0.0,True
+Hexagonal Color,7,3,pmm,20,20,0.0,True
+Hexagonal Color,7,3,m00,20,20,0.0,True
+Hexagonal Color,7,3,m01,20,20,0.0,True
+Hexagonal Color,7,3,m0p,20,20,0.0,True
+Hexagonal Color,7,3,m0m,20,20,0.0,True
+Hexagonal Color,7,3,m10,20,20,0.0,True
+Hexagonal Color,7,3,m11,20,20,0.0,True
+Hexagonal Color,7,3,m1p,20,20,0.0,True
+Hexagonal Color,7,3,m1m,20,20,0.0,True
+Hexagonal Color,7,3,mp0,20,20,0.0,True
+Hexagonal Color,7,3,mp1,20,20,0.0,True
+Hexagonal Color,7,3,mpp,20,20,0.0,True
+Hexagonal Color,7,3,mpm,20,20,0.0,True
+Hexagonal Color,7,3,mm0,20,20,0.0,True
+Hexagonal Color,7,3,mm1,20,20,0.0,True
+Hexagonal Color,7,3,mmp,20,20,0.0,True
+Hexagonal Color,7,3,mmm,20,20,0.0,True
+Square Octagon Color,3,1,0,13,13,0.0,True
+Square Octagon Color,3,1,1,14,14,0.0,True
+Square Octagon Color,3,1,p,13,13,0.0,True
+Square Octagon Color,3,1,m,14,14,0.0,True
+Square Octagon Color,3,2,00,13,13,0.0,True
+Square Octagon Color,3,2,01,14,14,0.0,True
+Square Octagon Color,3,2,0p,13,13,0.0,True
+Square Octagon Color,3,2,0m,14,14,0.0,True
+Square Octagon Color,3,2,10,14,14,0.0,True
+Square Octagon Color,3,2,11,14,14,0.0,True
+Square Octagon Color,3,2,1p,14,14,0.0,True
+Square Octagon Color,3,2,1m,14,14,0.0,True
+Square Octagon Color,3,2,p0,13,13,0.0,True
+Square Octagon Color,3,2,p1,14,14,0.0,True
+Square Octagon Color,3,2,pp,13,13,0.0,True
+Square Octagon Color,3,2,pm,14,14,0.0,True
+Square Octagon Color,3,2,m0,14,14,0.0,True
+Square Octagon Color,3,2,m1,14,14,0.0,True
+Square Octagon Color,3,2,mp,14,14,0.0,True
+Square Octagon Color,3,2,mm,14,14,0.0,True
+Square Octagon Color,3,3,000,13,13,0.0,True
+Square Octagon Color,3,3,001,14,14,0.0,True
+Square Octagon Color,3,3,00p,13,13,0.0,True
+Square Octagon Color,3,3,00m,14,14,0.0,True
+Square Octagon Color,3,3,010,14,14,0.0,True
+Square Octagon Color,3,3,011,14,14,0.0,True
+Square Octagon Color,3,3,01p,14,14,0.0,True
+Square Octagon Color,3,3,01m,14,14,0.0,True
+Square Octagon Color,3,3,0p0,13,13,0.0,True
+Square Octagon Color,3,3,0p1,14,14,0.0,True
+Square Octagon Color,3,3,0pp,13,13,0.0,True
+Square Octagon Color,3,3,0pm,14,14,0.0,True
+Square Octagon Color,3,3,0m0,14,14,0.0,True
+Square Octagon Color,3,3,0m1,14,14,0.0,True
+Square Octagon Color,3,3,0mp,14,14,0.0,True
+Square Octagon Color,3,3,0mm,14,14,0.0,True
+Square Octagon Color,3,3,100,14,14,0.0,True
+Square Octagon Color,3,3,101,14,14,0.0,True
+Square Octagon Color,3,3,10p,14,14,0.0,True
+Square Octagon Color,3,3,10m,14,14,0.0,True
+Square Octagon Color,3,3,110,14,14,0.0,True
+Square Octagon Color,3,3,111,14,14,0.0,True
+Square Octagon Color,3,3,11p,14,14,0.0,True
+Square Octagon Color,3,3,11m,14,14,0.0,True
+Square Octagon Color,3,3,1p0,14,14,0.0,True
+Square Octagon Color,3,3,1p1,14,14,0.0,True
+Square Octagon Color,3,3,1pp,14,14,0.0,True
+Square Octagon Color,3,3,1pm,14,14,0.0,True
+Square Octagon Color,3,3,1m0,14,14,0.0,True
+Square Octagon Color,3,3,1m1,14,14,0.0,True
+Square Octagon Color,3,3,1mp,14,14,0.0,True
+Square Octagon Color,3,3,1mm,14,14,0.0,True
+Square Octagon Color,3,3,p00,13,13,0.0,True
+Square Octagon Color,3,3,p01,14,14,0.0,True
+Square Octagon Color,3,3,p0p,13,13,0.0,True
+Square Octagon Color,3,3,p0m,14,14,0.0,True
+Square Octagon Color,3,3,p10,14,14,0.0,True
+Square Octagon Color,3,3,p11,14,14,0.0,True
+Square Octagon Color,3,3,p1p,14,14,0.0,True
+Square Octagon Color,3,3,p1m,14,14,0.0,True
+Square Octagon Color,3,3,pp0,13,13,0.0,True
+Square Octagon Color,3,3,pp1,14,14,0.0,True
+Square Octagon Color,3,3,ppp,13,13,0.0,True
+Square Octagon Color,3,3,ppm,14,14,0.0,True
+Square Octagon Color,3,3,pm0,14,14,0.0,True
+Square Octagon Color,3,3,pm1,14,14,0.0,True
+Square Octagon Color,3,3,pmp,14,14,0.0,True
+Square Octagon Color,3,3,pmm,14,14,0.0,True
+Square Octagon Color,3,3,m00,14,14,0.0,True
+Square Octagon Color,3,3,m01,14,14,0.0,True
+Square Octagon Color,3,3,m0p,14,14,0.0,True
+Square Octagon Color,3,3,m0m,14,14,0.0,True
+Square Octagon Color,3,3,m10,14,14,0.0,True
+Square Octagon Color,3,3,m11,14,14,0.0,True
+Square Octagon Color,3,3,m1p,14,14,0.0,True
+Square Octagon Color,3,3,m1m,14,14,0.0,True
+Square Octagon Color,3,3,mp0,14,14,0.0,True
+Square Octagon Color,3,3,mp1,14,14,0.0,True
+Square Octagon Color,3,3,mpp,14,14,0.0,True
+Square Octagon Color,3,3,mpm,14,14,0.0,True
+Square Octagon Color,3,3,mm0,14,14,0.0,True
+Square Octagon Color,3,3,mm1,14,14,0.0,True
+Square Octagon Color,3,3,mmp,14,14,0.0,True
+Square Octagon Color,3,3,mmm,14,14,0.0,True
+Square Octagon Color,5,1,0,18,18,0.0,True
+Square Octagon Color,5,1,1,19,19,0.0,True
+Square Octagon Color,5,1,p,18,18,0.0,True
+Square Octagon Color,5,1,m,19,19,0.0,True
+Square Octagon Color,5,2,00,18,18,0.0,True
+Square Octagon Color,5,2,01,19,19,0.0,True
+Square Octagon Color,5,2,0p,18,18,0.0,True
+Square Octagon Color,5,2,0m,19,19,0.0,True
+Square Octagon Color,5,2,10,19,19,0.0,True
+Square Octagon Color,5,2,11,19,19,0.0,True
+Square Octagon Color,5,2,1p,19,19,0.0,True
+Square Octagon Color,5,2,1m,19,19,0.0,True
+Square Octagon Color,5,2,p0,18,18,0.0,True
+Square Octagon Color,5,2,p1,19,19,0.0,True
+Square Octagon Color,5,2,pp,18,18,0.0,True
+Square Octagon Color,5,2,pm,19,19,0.0,True
+Square Octagon Color,5,2,m0,19,19,0.0,True
+Square Octagon Color,5,2,m1,19,19,0.0,True
+Square Octagon Color,5,2,mp,19,19,0.0,True
+Square Octagon Color,5,2,mm,19,19,0.0,True
+Square Octagon Color,5,3,000,18,18,0.0,True
+Square Octagon Color,5,3,001,19,19,0.0,True
+Square Octagon Color,5,3,00p,18,18,0.0,True
+Square Octagon Color,5,3,00m,19,19,0.0,True
+Square Octagon Color,5,3,010,19,19,0.0,True
+Square Octagon Color,5,3,011,19,19,0.0,True
+Square Octagon Color,5,3,01p,19,19,0.0,True
+Square Octagon Color,5,3,01m,19,19,0.0,True
+Square Octagon Color,5,3,0p0,18,18,0.0,True
+Square Octagon Color,5,3,0p1,19,19,0.0,True
+Square Octagon Color,5,3,0pp,18,18,0.0,True
+Square Octagon Color,5,3,0pm,19,19,0.0,True
+Square Octagon Color,5,3,0m0,19,19,0.0,True
+Square Octagon Color,5,3,0m1,19,19,0.0,True
+Square Octagon Color,5,3,0mp,19,19,0.0,True
+Square Octagon Color,5,3,0mm,19,19,0.0,True
+Square Octagon Color,5,3,100,19,19,0.0,True
+Square Octagon Color,5,3,101,19,19,0.0,True
+Square Octagon Color,5,3,10p,19,19,0.0,True
+Square Octagon Color,5,3,10m,19,19,0.0,True
+Square Octagon Color,5,3,110,19,19,0.0,True
+Square Octagon Color,5,3,111,19,19,0.0,True
+Square Octagon Color,5,3,11p,19,19,0.0,True
+Square Octagon Color,5,3,11m,19,19,0.0,True
+Square Octagon Color,5,3,1p0,19,19,0.0,True
+Square Octagon Color,5,3,1p1,19,19,0.0,True
+Square Octagon Color,5,3,1pp,19,19,0.0,True
+Square Octagon Color,5,3,1pm,19,19,0.0,True
+Square Octagon Color,5,3,1m0,19,19,0.0,True
+Square Octagon Color,5,3,1m1,19,19,0.0,True
+Square Octagon Color,5,3,1mp,19,19,0.0,True
+Square Octagon Color,5,3,1mm,19,19,0.0,True
+Square Octagon Color,5,3,p00,18,18,0.0,True
+Square Octagon Color,5,3,p01,19,19,0.0,True
+Square Octagon Color,5,3,p0p,18,18,0.0,True
+Square Octagon Color,5,3,p0m,19,19,0.0,True
+Square Octagon Color,5,3,p10,19,19,0.0,True
+Square Octagon Color,5,3,p11,19,19,0.0,True
+Square Octagon Color,5,3,p1p,19,19,0.0,True
+Square Octagon Color,5,3,p1m,19,19,0.0,True
+Square Octagon Color,5,3,pp0,18,18,0.0,True
+Square Octagon Color,5,3,pp1,19,19,0.0,True
+Square Octagon Color,5,3,ppp,18,18,0.0,True
+Square Octagon Color,5,3,ppm,19,19,0.0,True
+Square Octagon Color,5,3,pm0,19,19,0.0,True
+Square Octagon Color,5,3,pm1,19,19,0.0,True
+Square Octagon Color,5,3,pmp,19,19,0.0,True
+Square Octagon Color,5,3,pmm,19,19,0.0,True
+Square Octagon Color,5,3,m00,19,19,0.0,True
+Square Octagon Color,5,3,m01,19,19,0.0,True
+Square Octagon Color,5,3,m0p,19,19,0.0,True
+Square Octagon Color,5,3,m0m,19,19,0.0,True
+Square Octagon Color,5,3,m10,19,19,0.0,True
+Square Octagon Color,5,3,m11,19,19,0.0,True
+Square Octagon Color,5,3,m1p,19,19,0.0,True
+Square Octagon Color,5,3,m1m,19,19,0.0,True
+Square Octagon Color,5,3,mp0,19,19,0.0,True
+Square Octagon Color,5,3,mp1,19,19,0.0,True
+Square Octagon Color,5,3,mpp,19,19,0.0,True
+Square Octagon Color,5,3,mpm,19,19,0.0,True
+Square Octagon Color,5,3,mm0,19,19,0.0,True
+Square Octagon Color,5,3,mm1,19,19,0.0,True
+Square Octagon Color,5,3,mmp,19,19,0.0,True
+Square Octagon Color,5,3,mmm,19,19,0.0,True
+Square Octagon Color,7,1,0,20,20,0.0,True
+Square Octagon Color,7,1,1,20,20,0.0,True
+Square Octagon Color,7,1,p,20,20,0.0,True
+Square Octagon Color,7,1,m,20,20,0.0,True
+Square Octagon Color,7,2,00,20,20,0.0,True
+Square Octagon Color,7,2,01,20,20,0.0,True
+Square Octagon Color,7,2,0p,20,20,0.0,True
+Square Octagon Color,7,2,0m,20,20,0.0,True
+Square Octagon Color,7,2,10,20,20,0.0,True
+Square Octagon Color,7,2,11,20,20,0.0,True
+Square Octagon Color,7,2,1p,20,20,0.0,True
+Square Octagon Color,7,2,1m,20,20,0.0,True
+Square Octagon Color,7,2,p0,20,20,0.0,True
+Square Octagon Color,7,2,p1,20,20,0.0,True
+Square Octagon Color,7,2,pp,20,20,0.0,True
+Square Octagon Color,7,2,pm,20,20,0.0,True
+Square Octagon Color,7,2,m0,20,20,0.0,True
+Square Octagon Color,7,2,m1,20,20,0.0,True
+Square Octagon Color,7,2,mp,20,20,0.0,True
+Square Octagon Color,7,2,mm,20,20,0.0,True
+Square Octagon Color,7,3,000,20,20,0.0,True
+Square Octagon Color,7,3,001,20,20,0.0,True
+Square Octagon Color,7,3,00p,20,20,0.0,True
+Square Octagon Color,7,3,00m,20,20,0.0,True
+Square Octagon Color,7,3,010,20,20,0.0,True
+Square Octagon Color,7,3,011,20,20,0.0,True
+Square Octagon Color,7,3,01p,20,20,0.0,True
+Square Octagon Color,7,3,01m,20,20,0.0,True
+Square Octagon Color,7,3,0p0,20,20,0.0,True
+Square Octagon Color,7,3,0p1,20,20,0.0,True
+Square Octagon Color,7,3,0pp,20,20,0.0,True
+Square Octagon Color,7,3,0pm,20,20,0.0,True
+Square Octagon Color,7,3,0m0,20,20,0.0,True
+Square Octagon Color,7,3,0m1,20,20,0.0,True
+Square Octagon Color,7,3,0mp,20,20,0.0,True
+Square Octagon Color,7,3,0mm,20,20,0.0,True
+Square Octagon Color,7,3,100,20,20,0.0,True
+Square Octagon Color,7,3,101,20,20,0.0,True
+Square Octagon Color,7,3,10p,20,20,0.0,True
+Square Octagon Color,7,3,10m,20,20,0.0,True
+Square Octagon Color,7,3,110,20,20,0.0,True
+Square Octagon Color,7,3,111,20,20,0.0,True
+Square Octagon Color,7,3,11p,20,20,0.0,True
+Square Octagon Color,7,3,11m,20,20,0.0,True
+Square Octagon Color,7,3,1p0,20,20,0.0,True
+Square Octagon Color,7,3,1p1,20,20,0.0,True
+Square Octagon Color,7,3,1pp,20,20,0.0,True
+Square Octagon Color,7,3,1pm,20,20,0.0,True
+Square Octagon Color,7,3,1m0,20,20,0.0,True
+Square Octagon Color,7,3,1m1,20,20,0.0,True
+Square Octagon Color,7,3,1mp,20,20,0.0,True
+Square Octagon Color,7,3,1mm,20,20,0.0,True
+Square Octagon Color,7,3,p00,20,20,0.0,True
+Square Octagon Color,7,3,p01,20,20,0.0,True
+Square Octagon Color,7,3,p0p,20,20,0.0,True
+Square Octagon Color,7,3,p0m,20,20,0.0,True
+Square Octagon Color,7,3,p10,20,20,0.0,True
+Square Octagon Color,7,3,p11,20,20,0.0,True
+Square Octagon Color,7,3,p1p,20,20,0.0,True
+Square Octagon Color,7,3,p1m,20,20,0.0,True
+Square Octagon Color,7,3,pp0,20,20,0.0,True
+Square Octagon Color,7,3,pp1,20,20,0.0,True
+Square Octagon Color,7,3,ppp,20,20,0.0,True
+Square Octagon Color,7,3,ppm,20,20,0.0,True
+Square Octagon Color,7,3,pm0,20,20,0.0,True
+Square Octagon Color,7,3,pm1,20,20,0.0,True
+Square Octagon Color,7,3,pmp,20,20,0.0,True
+Square Octagon Color,7,3,pmm,20,20,0.0,True
+Square Octagon Color,7,3,m00,20,20,0.0,True
+Square Octagon Color,7,3,m01,20,20,0.0,True
+Square Octagon Color,7,3,m0p,20,20,0.0,True
+Square Octagon Color,7,3,m0m,20,20,0.0,True
+Square Octagon Color,7,3,m10,20,20,0.0,True
+Square Octagon Color,7,3,m11,20,20,0.0,True
+Square Octagon Color,7,3,m1p,20,20,0.0,True
+Square Octagon Color,7,3,m1m,20,20,0.0,True
+Square Octagon Color,7,3,mp0,20,20,0.0,True
+Square Octagon Color,7,3,mp1,20,20,0.0,True
+Square Octagon Color,7,3,mpp,20,20,0.0,True
+Square Octagon Color,7,3,mpm,20,20,0.0,True
+Square Octagon Color,7,3,mm0,20,20,0.0,True
+Square Octagon Color,7,3,mm1,20,20,0.0,True
+Square Octagon Color,7,3,mmp,20,20,0.0,True
+Square Octagon Color,7,3,mmm,20,20,0.0,True

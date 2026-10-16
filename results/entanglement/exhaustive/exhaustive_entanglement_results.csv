@@ -1,0 +1,49 @@
+name,dist,n_patches,state_string,qc_no_syndebug_depth,qc_with_syndebug_depth,percent_added,assertion_passed
+Steane,3,2,p0,24,24,0.0,True
+Steane,3,2,p1,25,25,0.0,True
+Steane,3,2,m0,25,25,0.0,True
+Steane,3,2,m1,25,25,0.0,True
+Shor,3,2,p0,23,23,0.0,True
+Shor,3,2,p1,24,24,0.0,True
+Shor,3,2,m0,23,23,0.0,True
+Shor,3,2,m1,24,24,0.0,True
+Tetrahedral,3,2,p0,33,33,0.0,True
+Tetrahedral,3,2,p1,33,33,0.0,True
+Tetrahedral,3,2,m0,34,34,0.0,True
+Tetrahedral,3,2,m1,34,34,0.0,True
+Golay,7,2,p0,54,54,0.0,True
+Golay,7,2,p1,55,55,0.0,True
+Golay,7,2,m0,55,55,0.0,True
+Golay,7,2,m1,55,55,0.0,True
+Surface,3,2,p0,20,20,0.0,True
+Surface,3,2,p1,21,21,0.0,True
+Surface,3,2,m0,21,21,0.0,True
+Surface,3,2,m1,21,21,0.0,True
+Surface,5,2,p0,23,23,0.0,True
+Surface,5,2,p1,23,23,0.0,True
+Surface,5,2,m0,24,24,0.0,True
+Surface,5,2,m1,24,24,0.0,True
+Hexagonal Color,3,2,p0,23,23,0.0,True
+Hexagonal Color,3,2,p1,23,23,0.0,True
+Hexagonal Color,3,2,m0,23,23,0.0,True
+Hexagonal Color,3,2,m1,23,23,0.0,True
+Hexagonal Color,5,2,p0,29,29,0.0,True
+Hexagonal Color,5,2,p1,29,29,0.0,True
+Hexagonal Color,5,2,m0,29,29,0.0,True
+Hexagonal Color,5,2,m1,29,29,0.0,True
+Hexagonal Color,7,2,p0,30,30,0.0,True
+Hexagonal Color,7,2,p1,30,30,0.0,True
+Hexagonal Color,7,2,m0,30,30,0.0,True
+Hexagonal Color,7,2,m1,30,30,0.0,True
+Square Octagon Color,3,2,p0,22,22,0.0,True
+Square Octagon Color,3,2,p1,22,22,0.0,True
+Square Octagon Color,3,2,m0,22,22,0.0,True
+Square Octagon Color,3,2,m1,22,22,0.0,True
+Square Octagon Color,5,2,p0,30,30,0.0,True
+Square Octagon Color,5,2,p1,31,31,0.0,True
+Square Octagon Color,5,2,m0,31,31,0.0,True
+Square Octagon Color,5,2,m1,31,31,0.0,True
+Square Octagon Color,7,2,p0,33,33,0.0,True
+Square Octagon Color,7,2,p1,33,33,0.0,True
+Square Octagon Color,7,2,m0,33,33,0.0,True
+Square Octagon Color,7,2,m1,33,33,0.0,True
